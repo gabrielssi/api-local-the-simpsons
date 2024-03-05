@@ -13,7 +13,7 @@ main {
 }
 
 h1 {
-  font-family: "Bangers", cursive;
+  font-family: cursive;
   color: #ff6600;
   margin-bottom: 5px;
 }
@@ -50,19 +50,4 @@ button:focus {
 
 img {
   border-radius: 5px;
-}
-
-@media (max-width: 768px) {
-  main {
-    padding: 10px;
-  }
-
-  input[type="text"] {
-    width: 100%;
-    margin-bottom: 10px;
-  }
-
-  button {
-    width: 100%;
-  }
 }
