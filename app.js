@@ -9,7 +9,8 @@ const personagens = ["Homer Simpson",
   "Krusty, o Palhaço", ,
   "Montgomery Burns",
   "Krusty, o Palhaço",
-  "Apu Nahasapeemapetilon"
+  "Apu Nahasapeemapetilon",
+  "Barney Gumble"
 ];
 
 function mostrarNaTela(tag, texto) {
